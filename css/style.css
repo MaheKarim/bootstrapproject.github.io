@@ -1,0 +1,33 @@
+
+.imageClass{
+	border-radius: 5px 5px;
+}
+#home-section{
+	background: url('../img/b.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+	min-height: 695px;
+	font-color: #fff;
+	
+}
+.dark-overlay{
+	background-color: rgba(0,0,0,0.3);
+	position: absolute;
+	top: 0;
+	left: 0px;
+	width: 100%;
+	min-height: 695px;
+}
+.home-inner{
+	padding-top: 150px;
+}
+.card-form{
+	opacity: 0.9;
+}
+.fa{
+	color: #2980b9;
+	background: #fff;
+	border-radius: 5px;
+	padding: 4px;
+	font-size: 11px;
+}
